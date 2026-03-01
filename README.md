@@ -5,4 +5,4 @@ Send message
 send sysex
 Baca all midi message
 
-<img width="500" height="400" alt="Screenshot_44" src="https://github.com/user-attachments/assets/3ba24f54-489a-4fee-99d1-9d06131b609d" />
+<img width="300" height="200" alt="Screenshot_44" src="[https://raw.githubusercontent.com/sugex/YAMAHA-MIDI-MONITOR/refs/heads/main/Screenshot_45.png)" />
